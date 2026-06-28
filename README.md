@@ -267,7 +267,7 @@
         <!-- PASSWORD PROTECTED: CODE ZERO LOGGING -->
         <section class="card">
             <h2>Code Zero Logging (Password Protected)</h2>
-            <p class="small">Password required: 403043040_SLR_2030302030</p>
+            <p class="small">Password required.</p>
 
             <label for="czPassword">Password</label>
             <input id="czPassword" type="password">
